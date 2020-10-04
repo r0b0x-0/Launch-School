@@ -1,1 +1,0 @@
-# On line 2 there is a missing closed curly bracket/brace }.
